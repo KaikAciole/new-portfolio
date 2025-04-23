@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito";
+  align-items: center;
+}
+
+html, body, #root {
+  background-color: #010616;
+  height: 100%;
+}
